@@ -1,4 +1,8 @@
 # gitskills
 Also learn!
 my fisr branch!
-you & me.
+<<<<<<< HEAD
+you and me.
+=======
+you and me.
+>>>>>>> next
